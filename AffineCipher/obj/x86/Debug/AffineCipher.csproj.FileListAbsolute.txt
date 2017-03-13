@@ -1,0 +1,4 @@
+/Users/admin/Desktop/English project/AffineCipher/AffineCipher/bin/Debug/AffineCipher.exe
+/Users/admin/Desktop/English project/AffineCipher/AffineCipher/bin/Debug/AffineCipher.exe.mdb
+/Users/admin/Desktop/English project/AffineCipher/AffineCipher/obj/x86/Debug/AffineCipher.exe
+/Users/admin/Desktop/English project/AffineCipher/AffineCipher/obj/x86/Debug/AffineCipher.exe.mdb

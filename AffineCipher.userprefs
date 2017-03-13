@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0787216A-BDE4-4B9B-96CC-FC310164534F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AffineCipher/Program.cs">
+    <Files>
+      <File FileName="AffineCipher/Program.cs" Line="42" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AffineCipher PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
